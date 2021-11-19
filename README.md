@@ -2,7 +2,7 @@
 
 Team Members- Name
 
-Akash Anbalagan
-Aman Deep
-Pratishruti Panda
+Akash Anbalagan,
+Aman Deep,
+Pratishruti Panda,
 Srikar Kalle
