@@ -8,4 +8,4 @@ Pratishruti Panda,
 Srikar Kalle
 
 
-Updated Project Link: https://github.com/srikarsharma16/TorryHarris_Project/blob/main/E-commercewebsite-master.zip | 
+Updated Project Link: https://github.com/srikarsharma16/TorryHarris_Project/blob/main/E-commercewebsite-master.zip | https://github.com/srikarsharma16/E-commercewebsite
